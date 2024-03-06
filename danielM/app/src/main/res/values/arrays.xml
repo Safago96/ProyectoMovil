@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones1">
+        <item> Todos</item>
+        <item> op1</item>
+        <item> op2</item>
+        <item> op3</item>
+        <item> op4</item>
+
+    </string-array>
+    <string-array name="educacion">
+        <item> Todos</item>
+        <item> op1</item>
+        <item> op2</item>
+        <item> op3</item>
+        <item> op4</item>
+
+    </string-array>
+
+
+
+</resources>
